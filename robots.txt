@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-x5to6t.pulaucuan.org/sitemap.xml
